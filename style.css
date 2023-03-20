@@ -1,0 +1,117 @@
+body {
+    background: #e5e5e5;
+    font-family: "Montserrat", sans-serif;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    justify-content: center;
+    margin: auto;
+    background: white;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+aside {
+    width: 370px;
+    background: #0b0350;
+}
+.cv-photo {
+    margin: 25px 0 0 0;
+}
+.header-secondary {
+    color: white;
+}
+.contact-links {
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+.bold {
+    font-weight: 700;
+}
+.list-secondary {
+    color: white;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.contact-block {
+    margin-top: 51px;
+    margin-left: 40px;
+}
+.tech-skills {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.soft-skills {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+.languages {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+main {
+    padding: 102px 88px 102px 88px;
+}
+.main-description {
+    width: 500px;
+}
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+.description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 40px;
+}
+.projects {
+    width: 485px;
+    margin-bottom: 51px;
+}
+.list-primary {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding-left: 0;
+    list-style-position: inside;
+}
+.list-primary-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+    color: black;
+}
+.header-primary {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+.third-header {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.dates {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
+.list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.agreement {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 40px;
+}
